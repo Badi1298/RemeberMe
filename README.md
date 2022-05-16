@@ -1,4 +1,4 @@
-# first-real-project
+# Remember Me
 
 ## Project setup
 ```
